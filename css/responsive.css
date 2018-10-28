@@ -8,7 +8,7 @@
 	============================================================================================ */
 }
 @media (max-width:1300px){
-	
+
 }
 @media (max-width:1199px){
 	/* Main Menu Area css
@@ -188,7 +188,7 @@
     }
 	/* End Blog page Area css
 	============================================================================================ */
-	
+
 	/* Contact Page Area css
 	============================================================================================ */
 	.contact_info{
@@ -260,7 +260,7 @@
 		margin-right: 0px;
 	}
 	.cupon_area input {
-		margin-left: 0px; 
+		margin-left: 0px;
 	}
 	.cupon_area .tp_btn {
 		margin-left: 0px;
@@ -309,6 +309,9 @@
 		padding-bottom: 0px;
 		padding-top: 0px;
 	}
+    .home_banner_area .banner_inner .container .hot_product_inner .col-lg-6 .hot_p_item img{
+        margin-top: 100px;
+    }
 	/* Footer Area css
 	============================================================================================ */
 	.footer-bottom{
@@ -344,7 +347,7 @@
 		display: block;
 		width: 100%;
 		float: none;
-	
+
 	}
 	.product_top_bar .left_dorp .show {
 		display: block;
@@ -376,7 +379,7 @@
 */
 }
 @media (max-width:600px){
-	
+
 }
 @media (max-width:575px){
 	.top_menu {
@@ -430,7 +433,7 @@
 	}
 	/* End Elements Area css
 	============================================================================================ */
-	
+
 	/* Blog Page Area css
 	============================================================================================ */
 	.blog_details h2 {
@@ -455,7 +458,7 @@
 	}
 	.gallery_f_inner{
 		max-width: 340px;
-		margin: 0px auto -30px; 
+		margin: 0px auto -30px;
 	}
 	.h_form_inner h4 {
 		padding-top: 70px;
@@ -514,7 +517,7 @@
 	.product_image_area {
 		padding-top: 70px;
 	}
-	
+
 }
 
 @media (max-width:480px){
@@ -525,7 +528,7 @@
 	}
 	/* End Main Menu Area css
 	============================================================================================ */
-	
+
 	/* Home Banner Area css
 	============================================================================================ */
     .home_banner_area .banner_inner .banner_content {
@@ -547,7 +550,7 @@
 	.comments-area .thumb {
 		margin-right: 10px;
 	}
-	
+
 	/* End Blog Page Area css
 	============================================================================================ */
 	.home_banner_area {
